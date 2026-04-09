@@ -39,7 +39,7 @@ O sistema foi validado através de programas carregados na ROM, utilizando palav
 
 Assista à explicação completa da arquitetura, incluindo a abertura dos subcircuitos do PC e da ALU, no vídeo abaixo:
 
-[![Assista ao vídeo](https://youtu.be/xq7yMoQE9us)
+[Assista ao vídeo](https://youtu.be/xq7yMoQE9us)
 
 ---
 
